@@ -1,0 +1,83 @@
+.nav{
+    width:100%;
+    color: #4A4A4A;
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+     font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    display: inline;
+}
+.first-nav{
+    width: 666px;
+    height: 27px;
+    margin-left: 40px;
+}
+.first-nav ul{
+   
+    
+}
+.first-nav ul li{
+    padding-right:30px;
+    padding-left: 10px;
+   
+}
+.first-nav ul li a{
+    color: #777777;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+
+}
+
+
+#carouselExampleControlsNoTouching{
+
+}
+.carousel-inner{
+
+
+}
+.carousel-slide{
+    position: absolute;
+    width: 1320px;
+    height: 700px;
+    left: 141px;
+    top: 146px;
+    
+    background: rgba(29, 29, 29, 0.7);
+    border-radius: 5px;
+
+}
+.carousel-inner{}
+.carousel-item {
+    
+background: rgba(29, 29, 29, 0.7);
+}
+.slide-text h2{}
+.slide-text h2 p{}
+
+
+
+
+.service {
+    text-align: center;
+    margin-top: 50px;
+    
+
+}
+.card-img{
+    border-radius: 5px;
+    
+
+width: 200px;
+height: 200px;
+left: 140
+}
+.start{
+    display: flex;
+}
