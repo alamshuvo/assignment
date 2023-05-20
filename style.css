@@ -81,3 +81,13 @@ left: 140
 .start{
     display: flex;
 }
+.btn{
+    margin: 50px 0 0 100px;
+}
+.card{
+    background: #289BDE;
+border-radius: 5px;
+}
+.card2{
+    display: flex;
+}
